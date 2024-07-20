@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "586760010828",
+    "project_id": "pdplatformu",
+    "storage_bucket": "pdplatformu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586760010828:android:896efa559a8b6d339448e9",
+        "android_client_info": {
+          "package_name": "com.kenetlen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSewyEdCUWR6BtzHUoEjKme_Vo4f7BwCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

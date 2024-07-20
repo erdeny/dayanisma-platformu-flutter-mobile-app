@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "type": "command",
+            "name": "run config debug",
+            "program": "/bin/bash", 
+            "args": [
+                "dart", "run", "lib/main.dart"
+            ],
+        }
+    ]
+}
